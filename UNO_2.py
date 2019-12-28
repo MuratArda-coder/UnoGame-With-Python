@@ -1,6 +1,3 @@
-## Furkan KARA ##
-## 20160702014 ##
-
 import random
 
 class UnoCard:
